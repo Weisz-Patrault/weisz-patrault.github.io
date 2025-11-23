@@ -1,0 +1,261 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LightSaber group — cutting computation time ;)",
+    "section": "",
+    "text": "This research group is part of the Solid Mechanics Laboratory (LMS) under the auspices of the Centre national de la recherche scientifique (CNRS) and the Institut Polytechnique de Paris (IPP).\nWe focuses on the development of real-time digital twins for metal additive manufacturing. We adopt a multidisciplinary approach that combines thermal analysis, theoretical mechanics, computational materials science, neural networks, and experimental validation. Our primary goal is to develop computationally efficient simulation tools for additive manufacturing processes—particularly directed energy deposition. Such part-scale, rapid models enable the optimization of residual stress states and the design of targeted microstructures.\nAdditionally, the research group is oriented toward real-world applications such as part repair, embedding sensors within additively manufactured components, and advancing technologies that support low-carbon energy production."
+  },
+  {
+    "objectID": "index.html#eic-pathfinder-open-fiber3d",
+    "href": "index.html#eic-pathfinder-open-fiber3d",
+    "title": "LightSaber group — cutting computation time ;)",
+    "section": "EIC Pathfinder Open / FIBER3D",
+    "text": "EIC Pathfinder Open / FIBER3D\n\nAgency: European Innovation Council (EIC)\nInstrument: Pathfinder Open\nProject Leader: Daniel Weisz-Patrault\nFunds: 3,235,253€\nStart date: September 2026\nPartners: Sara Bagherifard (Politecnico di Milano), Roland Logé: (EPFL), Francesco Delloro (Mines Paris), Nazila Safari Yazd: (RISE), Kamil Kosiel (Łukasiewicz – Poznański Instytut Technologiczny), Robert Socha (CBRTP) and Patrizio Lomonaco\nCore scientific team: PhD, postdoc, and engineering positions will open soon\n\n\nMulti-Process Strategy To Embed Optical Fibers In 3D-Printed Metal Parts (FIBER3D)\nTo meet low-carbon targets, Europe can rely on over 250,000 km of railway, 25,000 km of hydrogen pipelines, more than 100 nuclear power plants with complex piping systems, and emerging technologies like small modular reactors and advanced engines. However, intensified use of existing infrastructure and stringent design demands in new technologies make continuous material health monitoring essential. Yet, most critical parts are made of high-strength metals with high melting points, preventing direct sensor integration via welding or casting. FIBER3D proposes a groundbreaking fabrication technology that enables the production of sensors that can be directly welded onto existing surfaces or embedded within newly manufactured metal components. This is achieved by combining optical fiber sensors—capable of measuring temperature and strain along their length—with advanced spraying and 3D-printing techniques. The consortium, formed by world-leading experts in photonics, chemistry, materials science, metallurgy, thermo-mechanics, applied mathematics, and mechanical design, offers guarantees of success. FIBER3D’s technology can be applied across the entire existing Europe’s railway network, hydrogen transport systems, and nuclear infrastructure, as well as in 3D-printed parts for low-carbon technologies. This unique and transformative material health monitoring approach will significantly improve the sustainability, safety, and competitiveness of key industries by enabling real-time diagnostics and predictive maintenance, preventing catastrophic failures. FIBER3D will revolutionize material health monitoring in both existing and future industrial systems."
+  },
+  {
+    "objectID": "index.html#cieds-grant-lidres",
+    "href": "index.html#cieds-grant-lidres",
+    "title": "LightSaber group — cutting computation time ;)",
+    "section": "CIEDS grant / LIDRES",
+    "text": "CIEDS grant / LIDRES\n\nAgency: Centre Interdisciplinaire d’Etudes pour la Défense et la Sécurité (CIEDS)\nInstrument: APP Vague 5\nProject Leader: Daniel Weisz-Patrault\nFunds: 486,040€\nStart date: October 2025\nPartners: Eric Charkaluk (IPP), Theo Zurcher (DGA)\nCore scientific team: L. Brencklé (Ph.D. student). Positions still open for the project\n\n\nControl of Distortions and Residual Stresses for the Repair of Parts by Additive Manufacturing Using Directed Energy Deposition (LIDRES)\nThe objective of this project is to develop an experimentally validated optimization method, followed by a process control strategy, to correct distortions and reduce residual stresses during the repair of metal parts using laser directed energy deposition (L-DED) additive manufacturing. The optimization will rely on fast numerical models of the process, while the control strategy will be based on a neural network interpreting in-situ displacement measurements obtained through digital image correlation. The experiments will be conducted first on simple geometries with full-field measurements during the process, and then on geometries that are more representative of real applications."
+  },
+  {
+    "objectID": "index.html#cieds-grant-lasersurf",
+    "href": "index.html#cieds-grant-lasersurf",
+    "title": "LightSaber group — cutting computation time ;)",
+    "section": "CIEDS grant / LaserSurf",
+    "text": "CIEDS grant / LaserSurf\n\nAgency: Centre Interdisciplinaire d’Etudes pour la Défense et la Sécurité (CIEDS)\nInstrument: APP Vague 4\nProject Leader: Manas Upadhyay\nFunds: 699,712€\nStart date: October 2024\nPartners: Daniel Weisz-Patrault (CNRS, IPP)\nCore scientific team: T. Andrieux (Ph.D. student), M. Sazerat (Post-doc), A. Baganis (Post-doc)\n\n\nRapid laser surface treatment of printed metal parts to improve fatigue and wear resistance (LaserSurf)\nThe objective of this project is to develop and optimize a high-speed surface treatment using a micro-beam laser to improve the fatigue and wear resistance of metal parts produced by additive manufacturing. This process would replace the heat treatment and polishing currently required, reducing the cost, duration, and energy consumption of the finishing stage."
+  },
+  {
+    "objectID": "posts_news/eic/index.html",
+    "href": "posts_news/eic/index.html",
+    "title": "European Innovation Council (EIC) open pathfinder",
+    "section": "",
+    "text": "FIBER3D\nI’m very glad that our innovation project Fiber3D, for which I’m honored to serve as project leader, has been funded under the EIC - European Innovation Council Pathfinder Open program! 🚀\nI can’t wait to work with our consortium of fantastic researchers, Sara Bagherifard (Politecnico di Milano), Roland Logé (EPFL), Francesco Delloro (Mines Paris - PSL), Nazila Safari Yazd (RISE Research Institutes of Sweden), Kamil Kosiel (Łukasiewicz – Poznański Instytut Technologiczny), Robert Socha (CBRTP) and Patrizio Lomonaco.\nSpecial thanks to Quentin Dollé, who contributed to this success as a postdoctoral fellow at Institut Polytechnique de Paris.\nFiber3D pioneers a new fabrication method that integrates optical fibre sensors directly into metal structures using advanced 3D-printing and spraying techniques. This innovation allows real-time monitoring of temperature and strain in critical infrastructure such as railways, hydrogen pipelines, and nuclear power plants, dramatically improving safety, sustainability, and maintenance efficiency.\nRead more about the EIC Pathfinder announcement here"
+  },
+  {
+    "objectID": "posts_news/dotblocks_seminar/index.html",
+    "href": "posts_news/dotblocks_seminar/index.html",
+    "title": "DotBlocks Talk",
+    "section": "",
+    "text": "Post on LinkedIn\n\nTitle\nCost effective digital twin of directed energy deposition additive manufacturing From thermal analysis to microstructure, and part-scale residual stress estimation\n\n\nAbstract\nMicrostructural evolution during solidification in additive manufacturing is a key research area, as features such as morphology, crystallographic texture, and phase distribution strongly influence mechanical performance. Equally important are stress development and geometric distortions, since these can cause defects including fractures, buckling, and dimensional inaccuracies. To mitigate these challenges, process optimization—through parameter control and scanning strategy design—is essential. Achieving this requires efficient numerical simulations capable of delivering accurate results within short computation times.\nThis work reviews recent progress in modeling directed energy deposition across scales, from melt pool solidification to part-scale behavior. Initially, temperature evolution is calculated using a rapid numerical method named ScanFast [1]. Solidification is then modeled named TesselAM [2] using an efficient algorithm based on Voronoi methods that captures competitive epitaxial growth of columnar dendrites. Finally, stress and displacement evolution during full 3D structure formation is simulated using a one-dimensional model named QuadWire [3], which assigns four particles per material point. Validation against experimental data is presented at each stage of analysis.\n\n[1] Fast simulation of temperature and phase transitions in directed energy deposition additive manufacturing. D Weisz-Patrault, Additive Manufacturing 31, 100990, 2020\n[2] Dollé, Q., & Weisz-Patrault, D. (2024). Very fast simulation of growth competition between columnar dendritic grains during melt pool solidification. Computational Materials Science, 243, 113112.\n[3] QuadWire: an extended one dimensional model for efficient mechanical simulations of bead-based additive manufacturing processes. L Preumont, R Viano, D Weisz-Patrault, P Margerit, G Allaire, Computer Methods in Applied Mechanics and Engineering, 2024, 117010"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "LinkedIn\nEmail: daniel.weisz-patrault@cnrs.fr\nCNRS research scientist / Professor of mechanics of materials / CNRS delegate for research integrity"
+  },
+  {
+    "objectID": "team.html#daniel-weisz-patrault",
+    "href": "team.html#daniel-weisz-patrault",
+    "title": "Team",
+    "section": "",
+    "text": "LinkedIn\nEmail: daniel.weisz-patrault@cnrs.fr\nCNRS research scientist / Professor of mechanics of materials / CNRS delegate for research integrity"
+  },
+  {
+    "objectID": "team.html#manon-pardo",
+    "href": "team.html#manon-pardo",
+    "title": "Team",
+    "section": "Manon Pardo",
+    "text": "Manon Pardo\n\nLinkedIn\nEmail: manon.pardo@cea.fr\nFiber optic sensors embedded by metal additive manufacturing, towards structural health monitoring of critical installations\n\nCo-supervision: Ayoub Ladaci (CEA) ayoub.ladaci@cea.fr and Christina Baslari (CEA) christina.baslari@cea.fr"
+  },
+  {
+    "objectID": "team.html#loïc-brenklé",
+    "href": "team.html#loïc-brenklé",
+    "title": "Team",
+    "section": "Loïc Brenklé",
+    "text": "Loïc Brenklé\n\nLinkedIn\nEmail: loic.brenckle@polytechnique.edu\nLIDRES / Control of distortions and residual stresses for the repair of parts by additive manufacturing using directed energy deposition"
+  },
+  {
+    "objectID": "team.html#théo-andrieux",
+    "href": "team.html#théo-andrieux",
+    "title": "Team",
+    "section": "Théo Andrieux",
+    "text": "Théo Andrieux\n\nLinkedIn\nEmail: theo.andrieux@polytechnique.edu\nLaserSURF / Rapid identification of the relationship between laser processing, microstructure, and properties: a synergistic experimental–machine learning approach\n\nCo-supervision: Manas Upadhyay"
+  },
+  {
+    "objectID": "team.html#quentin-dollé",
+    "href": "team.html#quentin-dollé",
+    "title": "Team",
+    "section": "Quentin Dollé",
+    "text": "Quentin Dollé\n\nLinkedIn\nEmail: quentin.dolle@polytechnique.edu\nINFO3D / Integration of Optical Fibers in Metal 3D Printing"
+  },
+  {
+    "objectID": "team.html#antonio-baganis",
+    "href": "team.html#antonio-baganis",
+    "title": "Team",
+    "section": "Antonio Baganis",
+    "text": "Antonio Baganis\n\nLinkedIn\nEmail: antonios.baganis@polytechnique.edu\nCo-supervision: Manas Upadhyay\nLaserSURF /"
+  },
+  {
+    "objectID": "team.html#phd-students-1",
+    "href": "team.html#phd-students-1",
+    "title": "Team",
+    "section": "PhD students",
+    "text": "PhD students\n\nLouis Lesueur\n(Supervision: Daniel Weisz-Patrault, Anders Thorin)\nRafael Viano\n(Supervision: Daniel Weisz-Patrault, Jean-François Caron, Pierre Margerit, Romain Mesnil)\nLaurane Preumont\n(Supervision: Daniel Weisz-Patrault, Grégoire Allaire)\nQuentin Dollé\n(Supervision: Daniel Weisz-Patrault, Ahmed El Bartali)\nMichèle Bréhier\n(Supervision: Daniel Weisz-Patrault, Christophe Tournier)\nShahul Hameed\n(Supervision: Daniel Weisz-Patrault , Sabine Denis, Benoit Appolaire)\nInsaf Echerradi\n(Supervision: Michael Peigney, Daniel Weisz-Patrault)\nNicolas Dimov\n(Supervision: Aude Simar, Eric Charkaluk, Daniel Weisz-Patrault)\nSofia Sakout\n(Supervision: Alain Ehrlacher, Daniel Weisz-Patrault)\nAnthony Janin\n(Supervision: Andrei Constantinescu, Daniel Weisz-Patrault)"
+  },
+  {
+    "objectID": "team.html#postdoctoral-fellows",
+    "href": "team.html#postdoctoral-fellows",
+    "title": "Team",
+    "section": "Postdoctoral fellows",
+    "text": "Postdoctoral fellows\n\nPatrizio Lomonaco\n(Supervision: Daniel Weisz-Patrault)\nNan Jiang\n*(Supervision: Daniel Weisz-Patrault, Christophe Josserand, Eric Charkaluk)\nPierre Margerit\n(Supervision: Daniel Weisz-Patrault, Krishnaswamy Ravi-Chandar, Andrei Constantinescu)\nCharles Francart\n(Supervision: Daniel Weisz-Patrault, Gabriel Seisson)"
+  },
+  {
+    "objectID": "posts_pos/cieds_2025/cieds_phd/index.html",
+    "href": "posts_pos/cieds_2025/cieds_phd/index.html",
+    "title": "PhD position no longer open",
+    "section": "",
+    "text": "Additive manufacturing (AM) processes of the L-DED (Laser Directed Energy Deposition) type, whether using powder or wire, are particularly well suited for repairing damaged or worn metallic parts. They are already used for the repair of turbine blades [1] in the civil sector, and several national and European projects are currently focusing on this topic. However, it is still very difficult to predict, optimize, and control the distortions and residual stresses introduced by these deposits in the often complex repaired parts. This constitutes a major obstacle to the qualification of repaired components. The reasons are mainly three scientific challenges: * (1) macroscale numerical models that are fast enough are often insufficiently predictive; * (2) microscale models are inapplicable to full 3D part simulations due to their computational cost—yet this is essential in a repair context; * (3) in-situ data and measurements to validate numerical approaches and control the process in real time across a wide range of parameters (e.g., laser power, scan speed and strategy, use of the laser or argon flow to perform heat treatments during nozzle repositioning between layers, etc.) remain scarce. The PhD fits into the project “Limiting residual distortions during repairs by additive manufacturing” (LIDRES), funded by the Centre Interdisciplinaire d’Études pour la Défense et la Sécurité (CIEDS), which aims to remove the scientific obstacles identified above. The simplified, fast large-scale L-DED process models developed at LMS constitute a solid initial foundation but need to be extended and integrated into a numerical process-parameter optimization strategy and a neural network training workflow to develop a fast digital twin of the process. In addition, in-situ measurements on the BeAM machine (X-ENSTA, mechanics department) are being developed at LMS and will continue during the LIDRES project through a post-doctoral position. These measurements will not only allow model validation under varied and complex conditions but also enable the establishment of real-time process-control loops, thus helping to remove the third obstacle.\n\n\n\n\n\nResearch conducted at LMS over the past five years provides a foundation for developing a global, extremely fast model of the complete process. Several computational codes have been developed and must be extended as part of the PhD: * ScanFast [2–4] allows rapid calculation of thermal kinetics during DED processes under the assumption of a thin-wall structure (i.e., a single bead through the thickness). The theoretical and numerical extensions will expand its validity to more complex multi-track situations (multiple beads through the thickness). * QuadWire [5–7] is a one-dimensional theoretical mechanics model specifically designed for additive manufacturing problems where a highly slender bead is deposited to form a bulk part. We have shown that this model drastically reduces the total number of degrees of freedom needed to simulate structures during printing. Future developments must incorporate elastoplastic behaviors adapted to the L-DED process. These codes are currently developed separately in Python. They will be unified into a single, easy-to-use tool, forming a complete digital twin of the process. This twin will be experimentally validated through tests conducted in the associated post-doctoral project. Furthermore, optimization strategies for process parameters will be developed to minimize residual stresses and distortions using the digital twin. Interfaces Between the Part and the Repair.\nOne specific feature of repair, compared with standard additive manufacturing, is that the printing support is no longer a simple plate substrate with easily defined boundary conditions but a larger, more complex part relative to the repair dimensions, which must be considered. Thus, a modular approach must be developed, where the part to be repaired is not simulated in detail but reduced in scale as an equivalent substrate with the correct exchange conditions with the printed region.\n\n\n\nThe intrinsic variability of processes and of the parts to be repaired leads to a discrepancy between simulations and the actual fabrication/repair. It is therefore essential to control the process in real time to avoid deviating from the desired characteristics. Since the digital twin is sufficiently fast, it can be used to generate a large database and thus train a neural network. This network must be trained specifically to adjust process parameters based on the deviation between a target and a measurement. During the PhD, this task will initially be performed entirely numerically using synthetic measurements. Keywords: Additive manufacturing; repair; fast simulation; residual stresses and distortions; digital twin\n\n\n\n\nStrong knowledge in thermo-mechanics and numerical simulation is required. An interest in additive manufacturing processes is desirable, along with scientific rigor, curiosity, and good autonomy. The recruited candidate will primarily be based at the Laboratoire de Mécanique des Solides (LMS, École polytechnique) in Palaiseau (91).\n\n\n\nAutumn 2025\n\n\n\n\nDaniel Weisz-Patrault (daniel.weisz-patrault@cnrs.fr), CNRS Researcher at LMS\nEric Charkaluk (eric.charkaluk@polytechnique.edu), CNRS Research Director at LMS\nThéo Zurcher (theo.zurcher@intradef.gouv.fr)\n\n\n\n\nGross PhD salary (2200 euros until 31/12/2025, then 2300 euros starting 01/01/2026)\n\n\n\n\n[1] Guevenoux, C. (2021). Réparation de pièces métalliques par Directed Energy Deposition: gradient microstructural, comportement mécanique et tenue en fatigue (Doctoral dissertation, Institut polytechnique de Paris).\n[2] Weisz-Patrault, D. (2020). Fast simulation of temperature and phase transitions in directed energy deposition additive manufacturing. Additive Manufacturing, 31, 100990.\n[3] Weisz-Patrault, D., Margerit, P., & Constantinescu, A. (2022). Residual stresses in thin walled-structures manufactured by directed energy deposition: In-situ measurements, fast thermo-mechanical simulation and buckling. Additive Manufacturing, 56, 102903.\n[4] Gaudez, S., Weisz-Patrault, D., Abdesselam, K. A., Gharbi, H., Honkimäki, V., Van Petegem, S., & Upadhyay, M. V. (2025). Estimating elastic and thermal contributions to lattice strains from operando x-ray diffraction measurements using fast simulations. Additive Manufacturing, 104674.\n[5] Preumont, L., Viano, R., Weisz-Patrault, D., Margerit, P., & Allaire, G. (2024). QuadWire: An extended one dimensional model for efficient mechanical simulations of bead-based additive manufacturing processes. Computer Methods in Applied Mechanics and Engineering, 427, 117010.\n[6] Viano, R., Margerit, P., Mesnil, R., Weisz-Patrault, D., & Caron, J. F. (2024, September). Shrinkage characterization and compensation for 3DPC. In Digital concrete.\n[7] R Viano, L Demont, P Margerit, R Mesnil, JF Caron, D Weisz-Patrault. (2025). Residual stress control in large format polylactic acid additive manufacturing via fast thermomechanical simulation and in-operando imaging techniques, Materials & Design"
+  },
+  {
+    "objectID": "posts_pos/cieds_2025/cieds_phd/index.html#context-and-objective",
+    "href": "posts_pos/cieds_2025/cieds_phd/index.html#context-and-objective",
+    "title": "PhD position no longer open",
+    "section": "",
+    "text": "Additive manufacturing (AM) processes of the L-DED (Laser Directed Energy Deposition) type, whether using powder or wire, are particularly well suited for repairing damaged or worn metallic parts. They are already used for the repair of turbine blades [1] in the civil sector, and several national and European projects are currently focusing on this topic. However, it is still very difficult to predict, optimize, and control the distortions and residual stresses introduced by these deposits in the often complex repaired parts. This constitutes a major obstacle to the qualification of repaired components. The reasons are mainly three scientific challenges: * (1) macroscale numerical models that are fast enough are often insufficiently predictive; * (2) microscale models are inapplicable to full 3D part simulations due to their computational cost—yet this is essential in a repair context; * (3) in-situ data and measurements to validate numerical approaches and control the process in real time across a wide range of parameters (e.g., laser power, scan speed and strategy, use of the laser or argon flow to perform heat treatments during nozzle repositioning between layers, etc.) remain scarce. The PhD fits into the project “Limiting residual distortions during repairs by additive manufacturing” (LIDRES), funded by the Centre Interdisciplinaire d’Études pour la Défense et la Sécurité (CIEDS), which aims to remove the scientific obstacles identified above. The simplified, fast large-scale L-DED process models developed at LMS constitute a solid initial foundation but need to be extended and integrated into a numerical process-parameter optimization strategy and a neural network training workflow to develop a fast digital twin of the process. In addition, in-situ measurements on the BeAM machine (X-ENSTA, mechanics department) are being developed at LMS and will continue during the LIDRES project through a post-doctoral position. These measurements will not only allow model validation under varied and complex conditions but also enable the establishment of real-time process-control loops, thus helping to remove the third obstacle."
+  },
+  {
+    "objectID": "posts_pos/cieds_2025/cieds_phd/index.html#phd-topic",
+    "href": "posts_pos/cieds_2025/cieds_phd/index.html#phd-topic",
+    "title": "PhD position no longer open",
+    "section": "",
+    "text": "Research conducted at LMS over the past five years provides a foundation for developing a global, extremely fast model of the complete process. Several computational codes have been developed and must be extended as part of the PhD: * ScanFast [2–4] allows rapid calculation of thermal kinetics during DED processes under the assumption of a thin-wall structure (i.e., a single bead through the thickness). The theoretical and numerical extensions will expand its validity to more complex multi-track situations (multiple beads through the thickness). * QuadWire [5–7] is a one-dimensional theoretical mechanics model specifically designed for additive manufacturing problems where a highly slender bead is deposited to form a bulk part. We have shown that this model drastically reduces the total number of degrees of freedom needed to simulate structures during printing. Future developments must incorporate elastoplastic behaviors adapted to the L-DED process. These codes are currently developed separately in Python. They will be unified into a single, easy-to-use tool, forming a complete digital twin of the process. This twin will be experimentally validated through tests conducted in the associated post-doctoral project. Furthermore, optimization strategies for process parameters will be developed to minimize residual stresses and distortions using the digital twin. Interfaces Between the Part and the Repair.\nOne specific feature of repair, compared with standard additive manufacturing, is that the printing support is no longer a simple plate substrate with easily defined boundary conditions but a larger, more complex part relative to the repair dimensions, which must be considered. Thus, a modular approach must be developed, where the part to be repaired is not simulated in detail but reduced in scale as an equivalent substrate with the correct exchange conditions with the printed region.\n\n\n\nThe intrinsic variability of processes and of the parts to be repaired leads to a discrepancy between simulations and the actual fabrication/repair. It is therefore essential to control the process in real time to avoid deviating from the desired characteristics. Since the digital twin is sufficiently fast, it can be used to generate a large database and thus train a neural network. This network must be trained specifically to adjust process parameters based on the deviation between a target and a measurement. During the PhD, this task will initially be performed entirely numerically using synthetic measurements. Keywords: Additive manufacturing; repair; fast simulation; residual stresses and distortions; digital twin"
+  },
+  {
+    "objectID": "posts_pos/cieds_2025/cieds_phd/index.html#desired-profile",
+    "href": "posts_pos/cieds_2025/cieds_phd/index.html#desired-profile",
+    "title": "PhD position no longer open",
+    "section": "",
+    "text": "Strong knowledge in thermo-mechanics and numerical simulation is required. An interest in additive manufacturing processes is desirable, along with scientific rigor, curiosity, and good autonomy. The recruited candidate will primarily be based at the Laboratoire de Mécanique des Solides (LMS, École polytechnique) in Palaiseau (91)."
+  },
+  {
+    "objectID": "posts_pos/cieds_2025/cieds_phd/index.html#desired-start-date",
+    "href": "posts_pos/cieds_2025/cieds_phd/index.html#desired-start-date",
+    "title": "PhD position no longer open",
+    "section": "",
+    "text": "Autumn 2025"
+  },
+  {
+    "objectID": "posts_pos/cieds_2025/cieds_phd/index.html#contacts",
+    "href": "posts_pos/cieds_2025/cieds_phd/index.html#contacts",
+    "title": "PhD position no longer open",
+    "section": "",
+    "text": "Daniel Weisz-Patrault (daniel.weisz-patrault@cnrs.fr), CNRS Researcher at LMS\nEric Charkaluk (eric.charkaluk@polytechnique.edu), CNRS Research Director at LMS\nThéo Zurcher (theo.zurcher@intradef.gouv.fr)"
+  },
+  {
+    "objectID": "posts_pos/cieds_2025/cieds_phd/index.html#compensation",
+    "href": "posts_pos/cieds_2025/cieds_phd/index.html#compensation",
+    "title": "PhD position no longer open",
+    "section": "",
+    "text": "Gross PhD salary (2200 euros until 31/12/2025, then 2300 euros starting 01/01/2026)"
+  },
+  {
+    "objectID": "posts_pos/cieds_2025/cieds_phd/index.html#references",
+    "href": "posts_pos/cieds_2025/cieds_phd/index.html#references",
+    "title": "PhD position no longer open",
+    "section": "",
+    "text": "[1] Guevenoux, C. (2021). Réparation de pièces métalliques par Directed Energy Deposition: gradient microstructural, comportement mécanique et tenue en fatigue (Doctoral dissertation, Institut polytechnique de Paris).\n[2] Weisz-Patrault, D. (2020). Fast simulation of temperature and phase transitions in directed energy deposition additive manufacturing. Additive Manufacturing, 31, 100990.\n[3] Weisz-Patrault, D., Margerit, P., & Constantinescu, A. (2022). Residual stresses in thin walled-structures manufactured by directed energy deposition: In-situ measurements, fast thermo-mechanical simulation and buckling. Additive Manufacturing, 56, 102903.\n[4] Gaudez, S., Weisz-Patrault, D., Abdesselam, K. A., Gharbi, H., Honkimäki, V., Van Petegem, S., & Upadhyay, M. V. (2025). Estimating elastic and thermal contributions to lattice strains from operando x-ray diffraction measurements using fast simulations. Additive Manufacturing, 104674.\n[5] Preumont, L., Viano, R., Weisz-Patrault, D., Margerit, P., & Allaire, G. (2024). QuadWire: An extended one dimensional model for efficient mechanical simulations of bead-based additive manufacturing processes. Computer Methods in Applied Mechanics and Engineering, 427, 117010.\n[6] Viano, R., Margerit, P., Mesnil, R., Weisz-Patrault, D., & Caron, J. F. (2024, September). Shrinkage characterization and compensation for 3DPC. In Digital concrete.\n[7] R Viano, L Demont, P Margerit, R Mesnil, JF Caron, D Weisz-Patrault. (2025). Residual stress control in large format polylactic acid additive manufacturing via fast thermomechanical simulation and in-operando imaging techniques, Materials & Design"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Several codes have been developed to capture within short computation time different aspects of additive manufacturing.\n\nScanFast\nThermal analysis in directed energy deposition.\n\n\nTesselAM\nTesselAM is a fast algorithm for the computation of the formation of microstructure in rapid solidification and further evolution.\n\n\nQuadWire\nQuadWire is a one-dimensional extended mechanical model designed for additive manufacturing, where solid parts are obtained by accumulation of elongated beads. The key contribution is to use a multi-particular approach containing 4 particles per material point to develop an extended 1D model capable of capturing complex 3D mechanical states, while significantly reducing computation time with respect to conventional approaches.\n\n\nPlastiNN"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "European Innovation Council (EIC) open pathfinder\n\n\n\n\n\nI’m very glad that our innovation project Fiber3D, for which I’m honored to serve as project leader, has been funded under…\n\n\n\n\n\nNov 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCIEDS grant\n\n\n\n\n\nI’m very glad that our innovation project LIDRES, for which I’m honored to serve as project leader, has been funded under…\n\n\n\n\n\nOct 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nDotBlocks Talk\n\n\n\n\n\nToday I had the pleasure of presenting my work on fast modeling of the Directed Energy Deposition process at the DotBlocks…\n\n\n\n\n\nSep 25, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "open.html",
+    "href": "open.html",
+    "title": "Open positions",
+    "section": "",
+    "text": "Post-doc position still open\n\n\n\n\n\nExperimental developments on: Control of Distortions and Residual Stresses for the Repair of Parts by Additive…\n\n\n\n\n\nNov 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nPhD position no longer open\n\n\n\n\n\nNumerical developements on: Control of Distortions and Residual Stresses for the Repair of Parts by Additive Manufacturing…\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts_pos/cieds_2025/cieds_postdoc/index.html",
+    "href": "posts_pos/cieds_2025/cieds_postdoc/index.html",
+    "title": "Post-doc position still open",
+    "section": "",
+    "text": "Additive manufacturing (AM) processes of the L-DED type (Laser Directed Energy Deposition), whether using powder or wire, are particularly suitable for repairing damaged or worn metallic parts. They are already used for turbine blade repair in the civil sector, and several national and European projects are currently focused on this topic. However, it remains very difficult to predict, optimize, and control the distortions and residual stresses introduced by these deposits in repaired parts, which are often complex in geometry. This represents a major obstacle to the qualification of repaired components. Three main scientific challenges explain this difficulty: (1) Macroscopic numerical models that are fast enough are often not predictive enough, (2) Microscopic models cannot be applied to full 3D part simulations because of their computational cost, even though this is essential in the repair context, (3) In-situ data and measurements needed to validate numerical approaches and control the process in real time across a wide range of parameters (e.g., laser power, scanning speed and strategy, use of the laser or argon flow for heat treatments during nozzle repositioning phases between layer depositions, etc.) are scarce. The postdoctoral project is part of the LIDRES project (“Limiting Residual Distortions During Repairs by Additive Manufacturing”), funded by the Centre Interdisciplinaire d’Études pour la Défense et la Sécurité (CIEDS). This project aims to overcome the scientific barriers identified above. In-situ measurements using a 5-axis BeAM L-DED machine are currently being developed at the Laboratoire de Mécanique des Solides (LMS) and will be continued during the postdoctoral project. These will allow not only the validation of existing models under varied and complex conditions but also the establishment of real-time process control loops, thus addressing the third scientific challenge.\n\n\n\nThe first step will involve defining “academic” test specimens representative of the targeted structures (materials, types of repair zones, loading conditions). The goal is to design several geometries that will later serve for mechanical characterization tests. It will be essential to use 5-axis toolpath generation codes to prevent collisions between the deposition nozzle and elements of the part to be repaired. The tested and analyzed zones will typically be on the order of a few mm² to cm²—small compared to real parts. In a second phase, instrumented experiments (using a pyrometer, thermal camera, and visible camera) will be carried out on the BeAM powder-based DED machine at LMS. These experiments will enable multiscale measurements during the process (primarily local and/or global temperatures, displacements, and deformations) to recalibrate the models developed at LMS and within the LIDRES PhD project. After fabrication, the microstructures (repairs, interfaces) will be characterized and compared to the initial substrate. The residual stresses and distortions induced by the process will be estimated at various scales, in collaboration with BAM in Berlin [6]. As the project progresses, methods to reduce residual stresses during the process will be explored. Beyond global substrate heating—already investigated in the literature—local induction heating could be considered. Such localized thermal treatment could help control and minimize residual stresses. At the end of the work, a repair will be performed on a so-called “technological” specimen, whose geometry will be based on a real part of interest. This specimen will serve as a demonstrator, confirming that the results obtained on “academic” specimens and through simulations can be scaled up to larger and more complex geometries.\n\n\n\nAdditive manufacturing; repair; in-operando / in-situ measurements\n\n\n\nEuropean, English, or Swiss nationality (for defense-related reasons). A PhD holder with significant experimental experience in thermo-mechanical processes. Interest in additive manufacturing processes is desirable, along with scientific rigor, curiosity, and strong autonomy. The recruited researcher will be primarily based at the Laboratoire de Mécanique des Solides (LMS), École Polytechnique, in Palaiseau (91), France.\n\n\n\nJanuary 2026\n\n\n\n\nDaniel Weisz-Patrault, CNRS Researcher, LMS – [daniel.weisz-patrault@cnrs.fr]\nEric Charkaluk, CNRS Research Director, LMS – [eric.charkaluk@polytechnique.edu]\nThéo Zurcher, CIEDS – [theo.zurcher@intradef.gouv.fr]\n\n\n\n\nGross monthly salary: €3,300\n\n\n\n\n[1] Guevenoux, C. (2021). Réparation de pièces métalliques par Directed Energy Deposition: gradient microstructural, comportement mécanique et tenue en fatigue (Doctoral dissertation, Institut polytechnique de Paris).\n[2] Weisz-Patrault, D. (2020). Fast simulation of temperature and phase transitions in directed energy deposition additive manufacturing. Additive Manufacturing, 31, 100990.\n[3] Weisz-Patrault, D., Margerit, P., & Constantinescu, A. (2022). Residual stresses in thin walled-structures manufactured by directed energy deposition: In-situ measurements, fast thermo-mechanical simulation and buckling. Additive Manufacturing, 56, 102903.\n[4] Gaudez, S., Weisz-Patrault, D., Abdesselam, K. A., Gharbi, H., Honkimäki, V., Van Petegem, S., & Upadhyay, M. V. (2025). Estimating elastic and thermal contributions to lattice strains from operando x-ray diffraction measurements using fast simulations. Additive Manufacturing, 104674.\n[5] R Viano, L Demont, P Margerit, R Mesnil, JF Caron, D Weisz-Patrault (2025). Residual stress control in large format polylactic acid additive manufacturing via fast thermomechanical simulation and in-operando imaging techniques. Materials & Design.\n[6] T. Zurcher, I. Serrano-Munoz, T. Mishurova, G. Abreu-Faria, S. Degener, V. Fridrici, E. Charkaluk, G. Bruno. Sliding wear resistance and residual stresses of parts repaired by Laser Metal Deposition. J. Mat. Sc., 58 :17890-17907, 2023."
+  },
+  {
+    "objectID": "posts_pos/cieds_2025/cieds_postdoc/index.html#context-and-objectives",
+    "href": "posts_pos/cieds_2025/cieds_postdoc/index.html#context-and-objectives",
+    "title": "Post-doc position still open",
+    "section": "",
+    "text": "Additive manufacturing (AM) processes of the L-DED type (Laser Directed Energy Deposition), whether using powder or wire, are particularly suitable for repairing damaged or worn metallic parts. They are already used for turbine blade repair in the civil sector, and several national and European projects are currently focused on this topic. However, it remains very difficult to predict, optimize, and control the distortions and residual stresses introduced by these deposits in repaired parts, which are often complex in geometry. This represents a major obstacle to the qualification of repaired components. Three main scientific challenges explain this difficulty: (1) Macroscopic numerical models that are fast enough are often not predictive enough, (2) Microscopic models cannot be applied to full 3D part simulations because of their computational cost, even though this is essential in the repair context, (3) In-situ data and measurements needed to validate numerical approaches and control the process in real time across a wide range of parameters (e.g., laser power, scanning speed and strategy, use of the laser or argon flow for heat treatments during nozzle repositioning phases between layer depositions, etc.) are scarce. The postdoctoral project is part of the LIDRES project (“Limiting Residual Distortions During Repairs by Additive Manufacturing”), funded by the Centre Interdisciplinaire d’Études pour la Défense et la Sécurité (CIEDS). This project aims to overcome the scientific barriers identified above. In-situ measurements using a 5-axis BeAM L-DED machine are currently being developed at the Laboratoire de Mécanique des Solides (LMS) and will be continued during the postdoctoral project. These will allow not only the validation of existing models under varied and complex conditions but also the establishment of real-time process control loops, thus addressing the third scientific challenge."
+  },
+  {
+    "objectID": "posts_pos/cieds_2025/cieds_postdoc/index.html#research-topic",
+    "href": "posts_pos/cieds_2025/cieds_postdoc/index.html#research-topic",
+    "title": "Post-doc position still open",
+    "section": "",
+    "text": "The first step will involve defining “academic” test specimens representative of the targeted structures (materials, types of repair zones, loading conditions). The goal is to design several geometries that will later serve for mechanical characterization tests. It will be essential to use 5-axis toolpath generation codes to prevent collisions between the deposition nozzle and elements of the part to be repaired. The tested and analyzed zones will typically be on the order of a few mm² to cm²—small compared to real parts. In a second phase, instrumented experiments (using a pyrometer, thermal camera, and visible camera) will be carried out on the BeAM powder-based DED machine at LMS. These experiments will enable multiscale measurements during the process (primarily local and/or global temperatures, displacements, and deformations) to recalibrate the models developed at LMS and within the LIDRES PhD project. After fabrication, the microstructures (repairs, interfaces) will be characterized and compared to the initial substrate. The residual stresses and distortions induced by the process will be estimated at various scales, in collaboration with BAM in Berlin [6]. As the project progresses, methods to reduce residual stresses during the process will be explored. Beyond global substrate heating—already investigated in the literature—local induction heating could be considered. Such localized thermal treatment could help control and minimize residual stresses. At the end of the work, a repair will be performed on a so-called “technological” specimen, whose geometry will be based on a real part of interest. This specimen will serve as a demonstrator, confirming that the results obtained on “academic” specimens and through simulations can be scaled up to larger and more complex geometries."
+  },
+  {
+    "objectID": "posts_pos/cieds_2025/cieds_postdoc/index.html#keywords",
+    "href": "posts_pos/cieds_2025/cieds_postdoc/index.html#keywords",
+    "title": "Post-doc position still open",
+    "section": "",
+    "text": "Additive manufacturing; repair; in-operando / in-situ measurements"
+  },
+  {
+    "objectID": "posts_pos/cieds_2025/cieds_postdoc/index.html#desired-profile",
+    "href": "posts_pos/cieds_2025/cieds_postdoc/index.html#desired-profile",
+    "title": "Post-doc position still open",
+    "section": "",
+    "text": "European, English, or Swiss nationality (for defense-related reasons). A PhD holder with significant experimental experience in thermo-mechanical processes. Interest in additive manufacturing processes is desirable, along with scientific rigor, curiosity, and strong autonomy. The recruited researcher will be primarily based at the Laboratoire de Mécanique des Solides (LMS), École Polytechnique, in Palaiseau (91), France."
+  },
+  {
+    "objectID": "posts_pos/cieds_2025/cieds_postdoc/index.html#start-date",
+    "href": "posts_pos/cieds_2025/cieds_postdoc/index.html#start-date",
+    "title": "Post-doc position still open",
+    "section": "",
+    "text": "January 2026"
+  },
+  {
+    "objectID": "posts_pos/cieds_2025/cieds_postdoc/index.html#contacts",
+    "href": "posts_pos/cieds_2025/cieds_postdoc/index.html#contacts",
+    "title": "Post-doc position still open",
+    "section": "",
+    "text": "Daniel Weisz-Patrault, CNRS Researcher, LMS – [daniel.weisz-patrault@cnrs.fr]\nEric Charkaluk, CNRS Research Director, LMS – [eric.charkaluk@polytechnique.edu]\nThéo Zurcher, CIEDS – [theo.zurcher@intradef.gouv.fr]"
+  },
+  {
+    "objectID": "posts_pos/cieds_2025/cieds_postdoc/index.html#compensation",
+    "href": "posts_pos/cieds_2025/cieds_postdoc/index.html#compensation",
+    "title": "Post-doc position still open",
+    "section": "",
+    "text": "Gross monthly salary: €3,300"
+  },
+  {
+    "objectID": "posts_pos/cieds_2025/cieds_postdoc/index.html#references",
+    "href": "posts_pos/cieds_2025/cieds_postdoc/index.html#references",
+    "title": "Post-doc position still open",
+    "section": "",
+    "text": "[1] Guevenoux, C. (2021). Réparation de pièces métalliques par Directed Energy Deposition: gradient microstructural, comportement mécanique et tenue en fatigue (Doctoral dissertation, Institut polytechnique de Paris).\n[2] Weisz-Patrault, D. (2020). Fast simulation of temperature and phase transitions in directed energy deposition additive manufacturing. Additive Manufacturing, 31, 100990.\n[3] Weisz-Patrault, D., Margerit, P., & Constantinescu, A. (2022). Residual stresses in thin walled-structures manufactured by directed energy deposition: In-situ measurements, fast thermo-mechanical simulation and buckling. Additive Manufacturing, 56, 102903.\n[4] Gaudez, S., Weisz-Patrault, D., Abdesselam, K. A., Gharbi, H., Honkimäki, V., Van Petegem, S., & Upadhyay, M. V. (2025). Estimating elastic and thermal contributions to lattice strains from operando x-ray diffraction measurements using fast simulations. Additive Manufacturing, 104674.\n[5] R Viano, L Demont, P Margerit, R Mesnil, JF Caron, D Weisz-Patrault (2025). Residual stress control in large format polylactic acid additive manufacturing via fast thermomechanical simulation and in-operando imaging techniques. Materials & Design.\n[6] T. Zurcher, I. Serrano-Munoz, T. Mishurova, G. Abreu-Faria, S. Degener, V. Fridrici, E. Charkaluk, G. Bruno. Sliding wear resistance and residual stresses of parts repaired by Laser Metal Deposition. J. Mat. Sc., 58 :17890-17907, 2023."
+  },
+  {
+    "objectID": "about.html#daniel-weisz-patrault",
+    "href": "about.html#daniel-weisz-patrault",
+    "title": "About",
+    "section": "Daniel Weisz-Patrault",
+    "text": "Daniel Weisz-Patrault\nCNRS research scientist\nCNRS, Institut Polytechnique de Paris, Solid Mechanics Laboratory\nProfessor of mechanics of materials\nÉcole Nationale des Ponts et Chaussées\nCNRS delegate for research integrity\nMission à l’intégrité scientifique du CNRS\n\nAcademic positions\n\n2023-present: Professor at École Nationale des Ponts et Chaussées, France\n2014-present: CNRS research scientist, Solid Mechanics Laboratory, Institut Polytechnique de Paris, France\nMar-Sep 2022: Invited professor, Thermomechanical Metallurgy Laboratory, École Polytechnique Fédérale de Lausanne, Switzerland\nMar-Apr 2014: Visiting Research Scholar, Institute of Applied Mechanics, University of Stuttgart, Germany\nApr-Aug 2013: Visiting Research Scholar, Institute of Mathematics and Physics, University of Weimar, Germany\n2013-2014: Postdoctoral Research Associate, Navier Laboratory, École Nationale des Ponts et Chaussées, France\nOct 2010-Dec 2012: PhD student, Navier Laboratory, École Nationale des Ponts et Chaussées, France\n\n\n\nEducation\n\n2021/05/19: Accreditation to supervise research, Sorbonne Université, Defense, Thesis\n\n2010-2012: PhD (~2 years), Navier Laboratory, École Nationale des Ponts et Chaussées, Thesis\n\n2009-2010: Master degree, Sciences in Mechanics of Materials and Structures, École Nationale des Ponts et Chaussées\n2006-2010: Engineering degree, École Nationale des Ponts et Chaussées\n2003-2006: Preparatory classes, Lycée Henri IV, Paris\n\n\n\nAwards\n\n2019: Award of applied mathematics “Honorary Fellowship” from ESCMSE\n2018 Jean Rist Medal (early career award from SF2M)\n2014 Ranked 1st at the recruitment contest of CNRS (section 9)\n2013 PhD prize of Paris-Est University\n2013 PhD prize of Ecole des Ponts\n\n\n\nScholarships & Grants\n\n2026-2029: EIC Pathfinder Open, project Fiber3D (Project Leader)\n\n2025-2027: CIEDS, project LIDRES (Project Leader)\n\n2025-2026: CIEDS, project LaserSurf (Partner. Project Leader: Manas Upadhyay)\n\n2024-2025: Industrial maturation, project INFO3D (Project Leader)\n\n2022-2025: Grant (PhD) from Institut Polytechnique de Paris (Project Leader)\n\n2023: Grant (post-doc) from CARNOT M.I.N.E.S (Project Leader)\n\n2021-2024: CNRS 80|PRIME, project OPAC (Project Leader)\n\n2021-2025: ANR, project MIFASOL (PI. Co-PI: Christophe Tournier. Project Leader: Eric Charkaluk)\n\n2019-2021: Grant from Agence de l’Innovation Défense (Project Leader)\n\n2019-2022: Grant from the Pierre Ailleret EDF fund (PI, Co-PI: Michaël Peigney)\n\n2018-2020: Grant (PhD) from École Nationale des Ponts et Chaussées\n\n2010-2014: European project Rollgap Sensors (Partner)"
+  },
+  {
+    "objectID": "posts_news/cieds/index.html",
+    "href": "posts_news/cieds/index.html",
+    "title": "CIEDS grant",
+    "section": "",
+    "text": "LIDRES\nI’m very glad that our innovation project LIDRES (Limit residual distortions during repairs using additive manufacturing), for which I’m honored to serve as project leader, has been funded under the CIEDS (Centre Interdisciplinaire d’Etudes pour la Défense et la Sécurité) program! 🚀\nThe purpose of this project is to develop an experimentally validated optimization method, followed by a process-control approach that makes it possible to correct distortions and reduce residual stresses during the repair of metallic parts using laser directed energy deposition (L-DED) additive manufacturing. The optimization will rely on fast numerical models of the process, while the control strategy will rely on a neural network interpreting in-situ displacements measured by image correlation. The experiments will be conducted first on simple geometries with full-field measurements during the process, and then on geometries that are more representative of real applications."
+  }
+]
