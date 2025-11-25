@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/open.html",
+    "items": [
+      "/posts_pos/cieds_2025/cieds_engineer/index.html",
+      "/posts_pos/cieds_2025/cieds_postdoc/index.html",
+      "/posts_pos/cieds_2025/cieds_phd/index.html"
+    ]
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/posts_news/computational_seminar_IPP/index.html",
+      "/posts_news/eic/index.html",
+      "/posts_news/f2m_seminar/index.html",
+      "/posts_news/cieds/index.html",
+      "/posts_news/dotblocks_seminar/index.html"
+    ]
+  }
+]
