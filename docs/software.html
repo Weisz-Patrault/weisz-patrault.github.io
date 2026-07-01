@@ -20,6 +20,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -142,6 +176,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="https://github.com/Weisz-Patrault"> 
 <span class="menu-text"><iconify-icon role="img" inline="" icon="simple-icons:github" aria-label="Icon github from simple-icons Iconify.design set." title="GitHub" width="30"></iconify-icon></span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://gitlab.com/DWeisz-Patrault/"> 
+<span class="menu-text"><iconify-icon role="img" inline="" icon="simple-icons:gitlab" aria-label="Icon gitlab from simple-icons Iconify.design set." title="GitLab" width="30"></iconify-icon></span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -177,38 +215,119 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>Several codes have been developed to capture within short computation time different aspects of additive manufacturing. #</p>
-<section id="thermal-analysis" class="level2">
-<h2 class="anchored" data-anchor-id="thermal-analysis">Thermal analysis</h2>
-<section id="scanfast" class="level3">
-<h3 class="anchored" data-anchor-id="scanfast">ScanFast</h3>
-<p>Thermal analysis in single track directed energy deposition additive manufacturing.<br>
-<a href="" target="_blank">ScanFast repository</a><br>
-<a href="" target="_blank">doi</a></p>
+<p>Several codes have been developed to capture within short computation time different aspects of additive manufacturing.</p>
+<section id="thermal-analysis" class="level1">
+<h1>Thermal analysis</h1>
+<section id="greenmelt" class="level2">
+<h2 class="anchored" data-anchor-id="greenmelt">GreenMelt</h2>
+<p><strong>Part-Scale Ultra-Fast Melt Pool Prediction in Additive Manufacturing for Latent Heat and Marangoni Convection</strong></p>
+<section id="features" class="level3">
+<h3 class="anchored" data-anchor-id="features">Features</h3>
+<ul>
+<li>Green’s function thermal model for fast melt pool evaluation in LPBF and laser surface scanning</li>
+<li>Accounts for nonlinearities by adding distributed heat sources</li>
+<li><ul>
+<li>Latent heat (solidification and vaporization)</li>
+</ul></li>
+<li><ul>
+<li>Marangoni convection</li>
+</ul></li>
+<li>Physically based procedures to determine the distribution of additional heat sources to capture nonlinearities</li>
+<li>Neumann boundary conditions available</li>
+<li>Validated on single track numerical experiments against Computation Fluid Dynamic</li>
+<li>Standalone melt pool calculation is available provided material parameters and an average temperature upstream the heat source (i.e., in the solid ahead the melt pool)</li>
+<li>For part-scale calculation, currently a single back-and-forth scanning strategy is available for cuboid domains</li>
+</ul>
+</section>
+<section id="resources" class="level3">
+<h3 class="anchored" data-anchor-id="resources">Resources</h3>
+<p><a href="https://doi.org/10.5281/zenodo.21081969"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21081969.svg" class="img-fluid" alt="DOI"></a> <a href="https://gitlab.com/DWeisz-Patrault/GreenMelt"><img src="https://img.shields.io/badge/GitLab-repository-informational?logo=gitlab&amp;color=blue.png" class="img-fluid" alt="GitLab"></a></p>
+</section>
+<section id="citation" class="level3">
+<h3 class="anchored" data-anchor-id="citation">Citation</h3>
+<p>If you use <em>GreenMelt</em> in your work, please cite:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@article</span>{<span class="ot">greenmelt2026</span>,</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span>   = {GreenMelt: Part-Scale Ultra-Fast Melt Pool Prediction in Laser Powder Bed Fusion Accounting for Latent Heat and Marangoni Convection},</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">author</span>  = {Weisz-Patrault, Daniel},</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">journal</span> = {Submitted},</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">year</span>    = {2026}</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </section>
 </section>
-<section id="microstructure-formation" class="level2">
-<h2 class="anchored" data-anchor-id="microstructure-formation">Microstructure formation</h2>
-<section id="tesselam" class="level3">
-<h3 class="anchored" data-anchor-id="tesselam">TesselAM</h3>
-<p>TesselAM is a very fast algorithm for the computation of the formation of microstructure in rapid solidification and further evolution.<br>
-<a href="https://github.com/qdolle15/TesselAM" target="_blank">TesselAM repository</a><br>
-<a href="https://doi.org/10.5281/zenodo.17482024" target="_blank">doi:10.5281/zenodo.17482024</a></p>
+<section id="scanfast" class="level2">
+<h2 class="anchored" data-anchor-id="scanfast">ScanFast</h2>
+<p>Thermal analysis in single track directed energy deposition additive manufacturing.</p>
+<section id="resources-1" class="level3">
+<h3 class="anchored" data-anchor-id="resources-1">Resources</h3>
+<p><a href="https://doi.org/10.5281/zenodo.21081969"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21081969.svg" class="img-fluid" alt="DOI"></a> <a href="https://gitlab.com/DWeisz-Patrault/GreenMelt"><img src="https://img.shields.io/badge/GitLab-repository-informational?logo=gitlab&amp;color=blue.png" class="img-fluid" alt="GitLab"></a></p>
+</section>
+<section id="citation-1" class="level3">
+<h3 class="anchored" data-anchor-id="citation-1">Citation</h3>
+<p>If you use <em>ScanFast</em> in your work, please cite:</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="va">@article</span>{<span class="ot">weisz2020fast</span>,</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span>={Fast simulation of temperature and phase transitions in directed energy deposition additive manufacturing},</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">author</span>={Weisz-Patrault, Daniel},</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">journal</span>={Additive Manufacturing},</span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">volume</span>={31},</span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">pages</span>={100990},</span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>  <span class="dt">year</span>={2020},</span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>  <span class="dt">publisher</span>={Elsevier}</span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </section>
 </section>
-<section id="mechanics" class="level2">
-<h2 class="anchored" data-anchor-id="mechanics">Mechanics</h2>
-<section id="quadwire" class="level3">
-<h3 class="anchored" data-anchor-id="quadwire">QuadWire</h3>
-<p>QuadWire is a one-dimensional extended mechanical model designed for additive manufacturing, where solid parts are obtained by accumulation of elongated beads. The key contribution is to use a multi-particular approach containing 4 particles per material point to develop an extended 1D model capable of capturing complex 3D mechanical states, while significantly reducing computation time with respect to conventional approaches.<br>
-<a href="https://github.com/rafaelviano/QuadWire-Elastic" target="_blank">QuadWire repository</a><br>
-<a href="https://doi.org/10.5281/zenodo.10822309" target="_blank">doi:10.5281/zenodo.10822309</a></p>
+</section>
+<section id="microstructure" class="level1">
+<h1>Microstructure</h1>
+<section id="tesselam" class="level2">
+<h2 class="anchored" data-anchor-id="tesselam">TesselAM</h2>
+<p>TesselAM is a very fast algorithm for the computation of the formation of microstructure in rapid solidification and further evolution.</p>
+<section id="resources-2" class="level3">
+<h3 class="anchored" data-anchor-id="resources-2">Resources</h3>
+<p><a href="https://doi.org/10.5281/zenodo.20311605"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20311605.svg" class="img-fluid" alt="DOI"></a> <a href="https://github.com/qdolle15/TesselAM"><img src="https://img.shields.io/badge/GitHub-repository-green?logo=github&amp;logoColor=white.png" class="img-fluid" alt="GitHub"></a></p>
+</section>
+<section id="citation-2" class="level3">
+<h3 class="anchored" data-anchor-id="citation-2">Citation</h3>
+<p>If you use <em>TesselAM</em> in your work, please cite:</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="va">@article</span>{<span class="ot">dolle2024very</span>,</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span>={Very fast simulation of growth competition between columnar dendritic grains during melt pool solidification},</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">author</span>={Doll{<span class="ch">\'</span>e}, Quentin and Weisz-Patrault, Daniel},</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">journal</span>={Computational Materials Science},</span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">volume</span>={243},</span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">pages</span>={113112},</span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>  <span class="dt">year</span>={2024},</span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>  <span class="dt">publisher</span>={Elsevier}</span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </section>
 </section>
-<section id="neural-networks" class="level2">
-<h2 class="anchored" data-anchor-id="neural-networks">Neural Networks</h2>
-<section id="plastinn" class="level3">
-<h3 class="anchored" data-anchor-id="plastinn">PlastiNN</h3>
+</section>
+<section id="mechanics" class="level1">
+<h1>Mechanics</h1>
+<section id="quadwire" class="level2">
+<h2 class="anchored" data-anchor-id="quadwire">QuadWire</h2>
+<p>QuadWire is a one-dimensional extended mechanical model designed for additive manufacturing, where solid parts are obtained by accumulation of elongated beads. The key contribution is to use a multi-particular approach containing 4 particles per material point to develop an extended 1D model capable of capturing complex 3D mechanical states, while significantly reducing computation time with respect to conventional approaches.</p>
+<section id="resources-3" class="level3">
+<h3 class="anchored" data-anchor-id="resources-3">Resources</h3>
+<p><a href="https://doi.org/10.5281/zenodo.10822309"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.10822309.svg" class="img-fluid" alt="DOI"></a> <a href="https://github.com/rafaelviano/QuadWire-Elastic"><img src="https://img.shields.io/badge/GitHub-repository-green?logo=github&amp;logoColor=white.png" class="img-fluid" alt="GitHub"></a></p>
+</section>
+<section id="citation-3" class="level3">
+<h3 class="anchored" data-anchor-id="citation-3">Citation</h3>
+<p>If you use <em>QuadWire</em> in your work, please cite:</p>
+<div class="sourceCode" id="cb4"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="va">@article</span>{<span class="ot">preumont2024quadwire</span>,</span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span>={QuadWire: An extended one dimensional model for efficient mechanical simulations of bead-based additive manufacturing processes},</span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">author</span>={Preumont, Laurane and Viano, Rafa{<span class="ch">\"</span>e}l and Weisz-Patrault, Daniel and Margerit, Pierre and Allaire, Gr{<span class="ch">\'</span>e}goire},</span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">journal</span>={Computer Methods in Applied Mechanics and Engineering},</span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">volume</span>={427},</span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">pages</span>={117010},</span>
+<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a>  <span class="dt">year</span>={2024},</span>
+<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a>  <span class="dt">publisher</span>={Elsevier}</span>
+<span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+</section>
+</section>
+<section id="neural-networks" class="level1">
+<h1>Neural Networks</h1>
+<section id="plastinn" class="level2">
+<h2 class="anchored" data-anchor-id="plastinn">PlastiNN</h2>
 
 
 </section>

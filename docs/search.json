@@ -18,14 +18,14 @@
     "href": "index.html#cieds-grant-lidres",
     "title": "LightSaber group — cutting computation time ;)",
     "section": "CIEDS grant / LIDRES",
-    "text": "CIEDS grant / LIDRES\n\nAgency: Centre Interdisciplinaire d’Etudes pour la Défense et la Sécurité (CIEDS)\nInstrument: APP Vague 5\nProject Leader: Daniel Weisz-Patrault\nFunds: 486,040€\nStart date: October 2025\nPartners: Eric Charkaluk (IPP), Theo Zurcher (DGA)\nCore scientific team: L. Brencklé (Ph.D. student). Positions still open for the project\n\n\nControl of Distortions and Residual Stresses for the Repair of Parts by Additive Manufacturing Using Directed Energy Deposition (LIDRES)\nThe objective of this project is to develop an experimentally validated optimization method, followed by a process control strategy, to correct distortions and reduce residual stresses during the repair of metal parts using laser directed energy deposition (L-DED) additive manufacturing. The optimization will rely on fast numerical models of the process, while the control strategy will be based on a neural network interpreting in-situ displacement measurements obtained through digital image correlation. The experiments will be conducted first on simple geometries with full-field measurements during the process, and then on geometries that are more representative of real applications."
+    "text": "CIEDS grant / LIDRES\n\nAgency: Centre Interdisciplinaire d’Etudes pour la Défense et la Sécurité (CIEDS)\nInstrument: APP Vague 5\nProject Leader: Daniel Weisz-Patrault\nFunds: 486,040€\nStart date: October 2025\nPartners: Eric Charkaluk (IPP), Theo Zurcher (DGA)\nCore scientific team: L. Brencklé (Ph.D. student), M. Sazerat (Post-doc), L. Lesueur (Research Engineer), S. Leonardi (Research Engineer)\n\n\nControl of Distortions and Residual Stresses for the Repair of Parts by Additive Manufacturing Using Directed Energy Deposition (LIDRES)\nThe objective of this project is to develop an experimentally validated optimization method, followed by a process control strategy, to correct distortions and reduce residual stresses during the repair of metal parts using laser directed energy deposition (L-DED) additive manufacturing. The optimization will rely on fast numerical models of the process, while the control strategy will be based on a neural network interpreting in-situ displacement measurements obtained through digital image correlation. The experiments will be conducted first on simple geometries with full-field measurements during the process, and then on geometries that are more representative of real applications."
   },
   {
     "objectID": "index.html#cieds-grant-lasersurf",
     "href": "index.html#cieds-grant-lasersurf",
     "title": "LightSaber group — cutting computation time ;)",
     "section": "CIEDS grant / LaserSurf",
-    "text": "CIEDS grant / LaserSurf\n\nAgency: Centre Interdisciplinaire d’Etudes pour la Défense et la Sécurité (CIEDS)\nInstrument: APP Vague 4\nProject Leader: Manas Upadhyay\nFunds: 699,712€\nStart date: October 2024\nPartners: Daniel Weisz-Patrault (CNRS, IPP)\nCore scientific team: T. Andrieux (Ph.D. student), M. Sazerat (Post-doc), A. Baganis (Post-doc)\n\n\nRapid laser surface treatment of printed metal parts to improve fatigue and wear resistance (LaserSurf)\nThe objective of this project is to develop and optimize a high-speed surface treatment using a micro-beam laser to improve the fatigue and wear resistance of metal parts produced by additive manufacturing. This process would replace the heat treatment and polishing currently required, reducing the cost, duration, and energy consumption of the finishing stage."
+    "text": "CIEDS grant / LaserSurf\n\nAgency: Centre Interdisciplinaire d’Etudes pour la Défense et la Sécurité (CIEDS)\nInstrument: APP Vague 4\nProject Leader: Manas Upadhyay\nFunds: 699,712€\nStart date: October 2024\nPartners: Daniel Weisz-Patrault (CNRS, IPP)\nCore scientific team: T. Andrieux (Ph.D. student), A. Baganis (Post-doc)\n\n\nRapid laser surface treatment of printed metal parts to improve fatigue and wear resistance (LaserSurf)\nThe objective of this project is to develop and optimize a high-speed surface treatment using a micro-beam laser to improve the fatigue and wear resistance of metal parts produced by additive manufacturing. This process would replace the heat treatment and polishing currently required, reducing the cost, duration, and energy consumption of the finishing stage."
   },
   {
     "objectID": "posts_news/computational_seminar_IPP/index.html",
@@ -109,7 +109,7 @@
     "href": "team.html#postdoctoral-fellows",
     "title": "Team",
     "section": "Postdoctoral fellows",
-    "text": "Postdoctoral fellows\n\nQuentin Dollé\n(Supervisors: Daniel Weisz-Patrault)\nPatrizio Lomonaco\n(Supervisor: Daniel Weisz-Patrault)\nNan Jiang\n*(Supervisors: Daniel Weisz-Patrault, Christophe Josserand, Eric Charkaluk)\nPierre Margerit\n(Supervisors: Daniel Weisz-Patrault, Krishnaswamy Ravi-Chandar, Andrei Constantinescu)\nCharles Francart\n(Supervisors: Daniel Weisz-Patrault, Gabriel Seisson)"
+    "text": "Postdoctoral fellows\n\nMarjolaine Sazerat\n(Supervisor: Daniel Weisz-Patrault)\nQuentin Dollé\n(Supervisor: Daniel Weisz-Patrault)\nPatrizio Lomonaco\n(Supervisor: Daniel Weisz-Patrault)\nNan Jiang\n*(Supervisors: Daniel Weisz-Patrault, Christophe Josserand, Eric Charkaluk)\nPierre Margerit\n(Supervisors: Daniel Weisz-Patrault, Krishnaswamy Ravi-Chandar, Andrei Constantinescu)\nCharles Francart\n(Supervisors: Daniel Weisz-Patrault, Gabriel Seisson)"
   },
   {
     "objectID": "posts_pos/cieds_2025/cieds_phd/index.html",
@@ -207,7 +207,7 @@
     "href": "software.html",
     "title": "Software",
     "section": "",
-    "text": "Several codes have been developed to capture within short computation time different aspects of additive manufacturing. #"
+    "text": "Several codes have been developed to capture within short computation time different aspects of additive manufacturing."
   },
   {
     "objectID": "software.html#thermal-analysis",
@@ -242,7 +242,7 @@
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "Computational seminar series @ IPP\n\n\n\n\n\nToday I had the pleasure of presenting my work on fast modeling of the Directed Energy Deposition process at the…\n\n\n\n\n\nNov 24, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nEuropean Innovation Council (EIC) open pathfinder\n\n\n\n\n\nI’m very glad that our innovation project Fiber3D, for which I’m honored to serve as project leader, has been funded under…\n\n\n\n\n\nNov 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMatArchiXP-2025: Experimental Approach to Architected Materials\n\n\n\n\n\nThe ARCHI-META Research Network and the Île-de-France Mechanics Federation are organizing a joint day on the theme…\n\n\n\n\n\nNov 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCIEDS grant\n\n\n\n\n\nOur project LIDRES has been funded under the CIEDS program!\n\n\n\n\n\nOct 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nDotBlocks Talk\n\n\n\n\n\nToday I had the pleasure of presenting my work on fast modeling of the Directed Energy Deposition process at the DotBlocks…\n\n\n\n\n\nSep 25, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Interlab Faculty Forum\n\n\n\n\n\nToday I had the pleasure of presenting the work of Louis Lesueur and Théo Andrieux on neural networks in mechanics…\n\n\n\n\n\nMay 7, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nComputational seminar series @ IPP\n\n\n\n\n\nToday I had the pleasure of presenting my work on fast modeling of the Directed Energy Deposition process at the…\n\n\n\n\n\nNov 24, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nEuropean Innovation Council (EIC) open pathfinder\n\n\n\n\n\nI’m very glad that our innovation project Fiber3D, for which I’m honored to serve as project leader, has been funded under…\n\n\n\n\n\nNov 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMatArchiXP-2025: Experimental Approach to Architected Materials\n\n\n\n\n\nThe ARCHI-META Research Network and the Île-de-France Mechanics Federation are organizing a joint day on the theme…\n\n\n\n\n\nNov 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCIEDS grant\n\n\n\n\n\nOur project LIDRES has been funded under the CIEDS program!\n\n\n\n\n\nOct 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nDotBlocks Talk\n\n\n\n\n\nToday I had the pleasure of presenting my work on fast modeling of the Directed Energy Deposition process at the DotBlocks…\n\n\n\n\n\nSep 25, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "open.html",
@@ -355,5 +355,103 @@
     "title": "Team",
     "section": "Louis Lesueur",
     "text": "Louis Lesueur\n\nEmail: louis.lesueur.lms@polytechnique.edu\nLIDRES / Control of distortions and residual stresses for the repair of parts by additive manufacturing using directed energy deposition"
+  },
+  {
+    "objectID": "posts_news/interlab/index.html",
+    "href": "posts_news/interlab/index.html",
+    "title": "Interlab Faculty Forum",
+    "section": "",
+    "text": "Post on LinkedIn\n\nTitle\nSCAR : a self-consistent recurrent cell for real-time finite strain elastoplastic simulations\nRapid identification of laser processing-microstructure-properties relationship: an experiment-machine learning synergistic approach"
+  },
+  {
+    "objectID": "software.html#greenmelt",
+    "href": "software.html#greenmelt",
+    "title": "Software",
+    "section": "GreenMelt",
+    "text": "GreenMelt\nPart-Scale Ultra-Fast Melt Pool Prediction in Additive Manufacturing for Latent Heat and Marangoni Convection\n\nFeatures\n\nGreen’s function thermal model for fast melt pool evaluation in LPBF and laser surface scanning\nAccounts for nonlinearities by adding distributed heat sources\n\nLatent heat (solidification and vaporization)\n\n\nMarangoni convection\n\nPhysically based procedures to determine the distribution of additional heat sources to capture nonlinearities\nNeumann boundary conditions available\nValidated on single track numerical experiments against Computation Fluid Dynamic\nStandalone melt pool calculation is available provided material parameters and an average temperature upstream the heat source (i.e., in the solid ahead the melt pool)\nFor part-scale calculation, currently a single back-and-forth scanning strategy is available for cuboid domains\n\n\n\nResources\n \n\n\nCitation\nIf you use GreenMelt in your work, please cite:\n@article{greenmelt2026,\n  title   = {GreenMelt: Part-Scale Ultra-Fast Melt Pool Prediction in Laser Powder Bed Fusion Accounting for Latent Heat and Marangoni Convection},\n  author  = {Weisz-Patrault, Daniel},\n  journal = {Submitted},\n  year    = {2026}\n}"
+  },
+  {
+    "objectID": "software.html#scanfast",
+    "href": "software.html#scanfast",
+    "title": "Software",
+    "section": "ScanFast",
+    "text": "ScanFast\nThermal analysis in single track directed energy deposition additive manufacturing.\n\nResources\n \n\n\nCitation\nIf you use ScanFast in your work, please cite:\n@article{weisz2020fast,\n  title={Fast simulation of temperature and phase transitions in directed energy deposition additive manufacturing},\n  author={Weisz-Patrault, Daniel},\n  journal={Additive Manufacturing},\n  volume={31},\n  pages={100990},\n  year={2020},\n  publisher={Elsevier}\n}"
+  },
+  {
+    "objectID": "software.html#tesselam",
+    "href": "software.html#tesselam",
+    "title": "Software",
+    "section": "TesselAM",
+    "text": "TesselAM\nTesselAM is a very fast algorithm for the computation of the formation of microstructure in rapid solidification and further evolution.\n\nResources\n \n\n\nCitation\nIf you use TesselAM in your work, please cite:\n@article{dolle2024very,\n  title={Very fast simulation of growth competition between columnar dendritic grains during melt pool solidification},\n  author={Doll{\\'e}, Quentin and Weisz-Patrault, Daniel},\n  journal={Computational Materials Science},\n  volume={243},\n  pages={113112},\n  year={2024},\n  publisher={Elsevier}\n}"
+  },
+  {
+    "objectID": "software.html#quadwire",
+    "href": "software.html#quadwire",
+    "title": "Software",
+    "section": "QuadWire",
+    "text": "QuadWire\nQuadWire is a one-dimensional extended mechanical model designed for additive manufacturing, where solid parts are obtained by accumulation of elongated beads. The key contribution is to use a multi-particular approach containing 4 particles per material point to develop an extended 1D model capable of capturing complex 3D mechanical states, while significantly reducing computation time with respect to conventional approaches.\n\nResources\n \n\n\nCitation\nIf you use QuadWire in your work, please cite:\n@article{preumont2024quadwire,\n  title={QuadWire: An extended one dimensional model for efficient mechanical simulations of bead-based additive manufacturing processes},\n  author={Preumont, Laurane and Viano, Rafa{\\\"e}l and Weisz-Patrault, Daniel and Margerit, Pierre and Allaire, Gr{\\'e}goire},\n  journal={Computer Methods in Applied Mechanics and Engineering},\n  volume={427},\n  pages={117010},\n  year={2024},\n  publisher={Elsevier}\n}"
+  },
+  {
+    "objectID": "software.html#plastinn",
+    "href": "software.html#plastinn",
+    "title": "Software",
+    "section": "PlastiNN",
+    "text": "PlastiNN"
+  },
+  {
+    "objectID": "software.html#citation",
+    "href": "software.html#citation",
+    "title": "Software",
+    "section": "Citation",
+    "text": "Citation\nIf you use GreenMelt in your work, please cite:\n@article{greenmelt2026,\n  title   = {GreenMelt: Part-Scale Ultra-Fast Melt Pool Prediction in Laser Powder Bed Fusion Accounting for Latent Heat and Marangoni Convection},\n  author  = {Weisz-Patrault, Daniel},\n  journal = {Submitted},\n  year    = {2026}\n}"
+  },
+  {
+    "objectID": "software.html#resources",
+    "href": "software.html#resources",
+    "title": "Software",
+    "section": "Resources",
+    "text": "Resources"
+  },
+  {
+    "objectID": "software.html#resources-1",
+    "href": "software.html#resources-1",
+    "title": "Software",
+    "section": "Resources",
+    "text": "Resources"
+  },
+  {
+    "objectID": "software.html#citation-1",
+    "href": "software.html#citation-1",
+    "title": "Software",
+    "section": "Citation",
+    "text": "Citation\nIf you use ScanFast in your work, please cite:\n@article{weisz2020fast,\n  title={Fast simulation of temperature and phase transitions in directed energy deposition additive manufacturing},\n  author={Weisz-Patrault, Daniel},\n  journal={Additive Manufacturing},\n  volume={31},\n  pages={100990},\n  year={2020},\n  publisher={Elsevier}\n}"
+  },
+  {
+    "objectID": "software.html#citation-2",
+    "href": "software.html#citation-2",
+    "title": "Software",
+    "section": "Citation",
+    "text": "Citation\nIf you use TesselAM in your work, please cite:\n@article{dolle2024very,\n  title={Very fast simulation of growth competition between columnar dendritic grains during melt pool solidification},\n  author={Doll{\\'e}, Quentin and Weisz-Patrault, Daniel},\n  journal={Computational Materials Science},\n  volume={243},\n  pages={113112},\n  year={2024},\n  publisher={Elsevier}\n}"
+  },
+  {
+    "objectID": "software.html#citation-3",
+    "href": "software.html#citation-3",
+    "title": "Software",
+    "section": "Citation",
+    "text": "Citation\nIf you use QuadWire in your work, please cite:\n@article{preumont2024quadwire,\n  title={QuadWire: An extended one dimensional model for efficient mechanical simulations of bead-based additive manufacturing processes},\n  author={Preumont, Laurane and Viano, Rafa{\\\"e}l and Weisz-Patrault, Daniel and Margerit, Pierre and Allaire, Gr{\\'e}goire},\n  journal={Computer Methods in Applied Mechanics and Engineering},\n  volume={427},\n  pages={117010},\n  year={2024},\n  publisher={Elsevier}\n}"
+  },
+  {
+    "objectID": "software.html#resources-2",
+    "href": "software.html#resources-2",
+    "title": "Software",
+    "section": "Resources",
+    "text": "Resources"
+  },
+  {
+    "objectID": "software.html#resources-3",
+    "href": "software.html#resources-3",
+    "title": "Software",
+    "section": "Resources",
+    "text": "Resources"
   }
 ]
