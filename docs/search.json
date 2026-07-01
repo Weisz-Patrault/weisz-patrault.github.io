@@ -375,21 +375,21 @@
     "href": "software.html#scanfast",
     "title": "Software",
     "section": "ScanFast",
-    "text": "ScanFast\nThermal analysis in single track directed energy deposition additive manufacturing.\n\nResources\n \n\n\nCitation\nIf you use ScanFast in your work, please cite:\n@article{weisz2020fast,\n  title={Fast simulation of temperature and phase transitions in directed energy deposition additive manufacturing},\n  author={Weisz-Patrault, Daniel},\n  journal={Additive Manufacturing},\n  volume={31},\n  pages={100990},\n  year={2020},\n  publisher={Elsevier}\n}"
+    "text": "ScanFast\nThermal analysis in single track directed energy deposition additive manufacturing\n\nResources\n \n\n\nCitation\nIf you use ScanFast in your work, please cite:\n@article{weisz2020fast,\n  title={Fast simulation of temperature and phase transitions in directed energy deposition additive manufacturing},\n  author={Weisz-Patrault, Daniel},\n  journal={Additive Manufacturing},\n  volume={31},\n  pages={100990},\n  year={2020},\n  publisher={Elsevier}\n}"
   },
   {
     "objectID": "software.html#tesselam",
     "href": "software.html#tesselam",
     "title": "Software",
     "section": "TesselAM",
-    "text": "TesselAM\nTesselAM is a very fast algorithm for the computation of the formation of microstructure in rapid solidification and further evolution.\n\nResources\n \n\n\nCitation\nIf you use TesselAM in your work, please cite:\n@article{dolle2024very,\n  title={Very fast simulation of growth competition between columnar dendritic grains during melt pool solidification},\n  author={Doll{\\'e}, Quentin and Weisz-Patrault, Daniel},\n  journal={Computational Materials Science},\n  volume={243},\n  pages={113112},\n  year={2024},\n  publisher={Elsevier}\n}"
+    "text": "TesselAM\nTesselAM is a very fast algorithm for the computation of the formation of microstructure in rapid solidification and further evolution\n\nFeatures\n\nOperates at grain scale, not dendritic scale\nPhysically based geometrical procedure to capture competitive growth in solidification\nBased on Voronoi tessellations\nDramatic reduction of degrees of freedom with respect to cellular automata and phase field approaches\nMicrostructures similar to those from conventional approaches are obtained\n\n\n\nResources\n \n\n\nCitation\nIf you use TesselAM in your work, please cite:\n@article{dolle2024very,\n  title={Very fast simulation of growth competition between columnar dendritic grains during melt pool solidification},\n  author={Doll{\\'e}, Quentin and Weisz-Patrault, Daniel},\n  journal={Computational Materials Science},\n  volume={243},\n  pages={113112},\n  year={2024},\n  publisher={Elsevier}\n}"
   },
   {
     "objectID": "software.html#quadwire",
     "href": "software.html#quadwire",
     "title": "Software",
     "section": "QuadWire",
-    "text": "QuadWire\nQuadWire is a one-dimensional extended mechanical model designed for additive manufacturing, where solid parts are obtained by accumulation of elongated beads. The key contribution is to use a multi-particular approach containing 4 particles per material point to develop an extended 1D model capable of capturing complex 3D mechanical states, while significantly reducing computation time with respect to conventional approaches.\n\nResources\n \n\n\nCitation\nIf you use QuadWire in your work, please cite:\n@article{preumont2024quadwire,\n  title={QuadWire: An extended one dimensional model for efficient mechanical simulations of bead-based additive manufacturing processes},\n  author={Preumont, Laurane and Viano, Rafa{\\\"e}l and Weisz-Patrault, Daniel and Margerit, Pierre and Allaire, Gr{\\'e}goire},\n  journal={Computer Methods in Applied Mechanics and Engineering},\n  volume={427},\n  pages={117010},\n  year={2024},\n  publisher={Elsevier}\n}"
+    "text": "QuadWire\nQuadWire is a one-dimensional extended mechanical model designed for additive manufacturing\n\nFeatures\n\nSolid parts are obtained by accumulation of elongated beads.\nMulti-particular approach containing 4 particles per material point\nCapable of capturing complex 3D mechanical states\nSignificantly reducing the number of degress of freedom with respect to conventional approaches.\n\n\n\nResources\n \n\n\nCitation\nIf you use QuadWire in your work, please cite:\n@article{preumont2024quadwire,\n  title={QuadWire: An extended one dimensional model for efficient mechanical simulations of bead-based additive manufacturing processes},\n  author={Preumont, Laurane and Viano, Rafa{\\\"e}l and Weisz-Patrault, Daniel and Margerit, Pierre and Allaire, Gr{\\'e}goire},\n  journal={Computer Methods in Applied Mechanics and Engineering},\n  volume={427},\n  pages={117010},\n  year={2024},\n  publisher={Elsevier}\n}"
   },
   {
     "objectID": "software.html#plastinn",
